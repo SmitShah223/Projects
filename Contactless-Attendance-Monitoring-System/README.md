@@ -1,7 +1,7 @@
 # Contactless Attendance Monitoring System using Face Recognition
 
 > **Published:** ICCDS February 2023 — ISBN: 979-8-9879839-0-4  
-> **Authors:** Darshit Shah · Parthav Shah · Smit Shah  
+> **Authors:**  · Smit Shah · Darshit Shah · Parthav Shah  
 > **Guide:** Mr. Sunil Khatri, Dept. of IoT, Thakur College of Engineering & Technology, Mumbai  
 > **~95% recognition accuracy** | Raspberry Pi 4 | Python | OpenCV | dlib | SVM
 
