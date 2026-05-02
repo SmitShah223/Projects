@@ -1,0 +1,10 @@
+face_recognition
+opencv-python
+numpy
+Pillow
+scikit-learn
+qrcode[pil]
+RPi.GPIO
+luma.oled
+luma.core
+smtplib

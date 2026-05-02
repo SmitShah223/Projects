@@ -1,0 +1,32 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+venv/
+env/
+.venv/
+
+# ─── Dataset & trained model (large binary files) ─────────────────────────────
+src/dataset/*/
+src/trainer/svm_model.pkl
+src/trainer/encodings.pkl
+
+# ─── Attendance CSV logs ───────────────────────────────────────────────────────
+src/attendance/*.csv
+
+# ─── Secrets ──────────────────────────────────────────────────────────────────
+.env
+*.key
+*.pem
+
+# ─── macOS ────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+
+# ─── Editors ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
